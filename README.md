@@ -21,6 +21,7 @@ This project demonstrates how to **optimize EV charging schedules** using linear
 - 🧩 **可扩展性**：支持多车协同调度、时变电价、光伏预测等扩展  
 
 > 🧠 让算法更懂能源，让能源更懂你。
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0c639927-1ac2-42a4-a98a-62662c56c027" />
 
 ---
 
