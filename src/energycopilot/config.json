@@ -1,0 +1,9 @@
+{
+  "EV_BATTERY_KWH": 80.0,
+  "EV_SOC0": 0.25,
+  "EV_SOC_TARGET": 0.85,
+  "P_MAX_KW": 11.0,
+  "ETA_CHARGE": 0.95,
+  "FEED_IN_TARIFF": 0.08,
+  "HOURS": 24
+}
